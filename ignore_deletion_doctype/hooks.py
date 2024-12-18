@@ -67,6 +67,33 @@ app_license = "mit"
 # Generators
 # ----------
 
+#####################IGNORE DELETION DOCTYPE############################
+
+company_data_to_be_ignored=[
+    "Salary Structure",
+    "Salary Slip",
+    "Salary Structure Assignment",
+    "Department",
+    "Leave Allocation",
+    "Salary Component",
+    "Income Tax Slab",
+    "Additional Salary",
+    "Effected salaries",
+    "Permission",
+    "Attendance",
+    "Payroll Period",
+    "Job Opening",
+    "Shift Assignment",
+    "Leave Application"
+] ###Mina & Eng Ahmed####
+
+
+
+
+
+
+
+
 # automatically create page for each record of this doctype
 # website_generators = ["Web Page"]
 
