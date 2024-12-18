@@ -82,6 +82,7 @@ company_data_to_be_ignored=[
     "Permission",
     "Attendance",
     "Payroll Period",
+    "Leave Period",
     "Job Opening",
     "Shift Assignment",
     "Leave Application"
